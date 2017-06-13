@@ -9,3 +9,7 @@ http://faculty.salina.k-state.edu/tim/CMST302/study_guide/topic2/lexical.html
 
 
 Binary Trees - https://en.wikipedia.org/wiki/Binary_tree
+
+scoping
+
+types

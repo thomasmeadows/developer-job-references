@@ -1,0 +1,4 @@
+
+```sql
+DROP DATABASE databasename;
+```

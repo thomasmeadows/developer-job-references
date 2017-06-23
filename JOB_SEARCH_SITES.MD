@@ -46,3 +46,7 @@
 [consultus](www.consultis.com)
 
 [principle solutions](http://www.principlesolutions.com)
+
+### google searches
+
+[site:breezy.hr developer](http://lmgtfy.com/?q=site%3Abreezy.hr+developer)

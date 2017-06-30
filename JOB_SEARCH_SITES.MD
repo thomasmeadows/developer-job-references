@@ -49,4 +49,6 @@
 
 ### google searches
 
-[site:breezy.hr developer](http://lmgtfy.com/?q=site%3Abreezy.hr+developer)
+[breezy.hr](http://lmgtfy.com/?q=site%3Abreezy.hr+developer)
+
+[greenhouse.io ](https://www.startpage.com/do/dsearch?query=site%3Aboards.greenhouse.io+developer&cat=web&pl=opensearch&language=english)
